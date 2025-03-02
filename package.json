@@ -1,0 +1,27 @@
+{
+  "name": "api-node-js-express",
+  "version": "1.0.0",
+  "description": "API REST created with node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanCamiloGomezAlvarez/API-Node-js-Express.git"
+  },
+  "keywords": [
+    "hola",
+    "mundo"
+  ],
+  "author": "Juan Camilo Gómez Álvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCamiloGomezAlvarez/API-Node-js-Express/issues"
+  },
+  "homepage": "https://github.com/JuanCamiloGomezAlvarez/API-Node-js-Express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
